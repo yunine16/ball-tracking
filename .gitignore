@@ -1,0 +1,13 @@
+/media/image/*
+! /media/image/bgsub
+/media/image/bgsub/*
+! /media/image/gray
+/media/image/gray/*
+! /media/image/raw
+/media/image/raw/*
+!.gitkeep
+
+!/media/result
+/media/result/*
+!/media/video
+/media/video/*
